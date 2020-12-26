@@ -7,7 +7,7 @@ You will need Python 3 , pip3 and git.
 ## Installation
 First download the project, go to the appropriate folder, install the required packages and create the .env file.
 ```bash
-git clone git@github.com:TitusKirch/woltlab-transactions-to-discord.git
+git clone https://github.com/TitusKirch/woltlab-transactions-to-discord.git
 cd woltlab-transactions-to-discord/
 pip3 install -r requirements.txt
 cp .env.example .env
