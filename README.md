@@ -2,7 +2,7 @@
 "woltlab-transactions-to-discord" is a small project to post trader transaction at WoltLab via a webhook in a Discord channel.
 
 ## Requirements
-You will need Python 3 , pip3 and git.
+You will need Python 3, pip3 and git.
 
 ## Installation
 First download the project, go to the appropriate folder, install the required packages and create the .env file.
