@@ -1,1 +1,1 @@
-# woltlab-transactions-to-discord-
+# woltlab-transactions-to-discord
